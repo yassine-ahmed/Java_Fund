@@ -18,7 +18,6 @@ This document provides a comprehensive guide to **Object-Oriented Programming (O
   - [Exception Handling](#exception-handling)
 - [Design Patterns](#design-patterns)
 - [Best Practices](#best-practices)
-- [Practical Steps for Mastery](#practical-steps-for-mastery)
 
 ---
 
