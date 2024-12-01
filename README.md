@@ -1,3 +1,4 @@
+![Design & development](https://github.com/yassine-ahmed/Java_Fund/blob/main/thumb_Java.jpg)
 # Object-Oriented Programming (OOP) in Java
 
 This document provides a comprehensive guide to **Object-Oriented Programming (OOP)** in Java. It covers all the essential OOP principles, concepts, and best practices you need to master to excel in Java and prepare for interviews.
